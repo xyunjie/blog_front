@@ -11,13 +11,14 @@
 
 <script setup lang="ts">
 
+// 需要替换这个列表
 const imageList = [
-  "https://static.ttkwsd.top/articles/379ce4b2ddf4b087441c196fbffa2f3b.jpg",
-  "https://static.ttkwsd.top/articles/80ae8255603788a1305d4bcc177097a2.jpg",
-  "https://static.ttkwsd.top/articles/6becdfb5062ec2e1f9b9b16dd4b65d7e.jpg",
-  "https://static.ttkwsd.top/articles/2ce1129fceee7f14cb4cf554ed167534.jpg",
-  "https://static.ttkwsd.top/articles/84aae58f4246f8419cf018d7d7f6bae8.jpg",
-  "https://static.ttkwsd.top/articles/5b43ce3015351615d3654b8cac53c525.jpg"
+  "https://file.xn--8mrz94a38l8mb00n.top/config/a3aab33f1f0cb0f3582d097c30b50ed3.jpeg",
+  "https://file.xn--8mrz94a38l8mb00n.top/config/130479e9b9d41c3a9b12a6034eb369d6.jpeg",
+  "https://file.xn--8mrz94a38l8mb00n.top/config/c3687c26f1f6763a0d9854bc7deb894e.jpeg",
+  "https://file.xn--8mrz94a38l8mb00n.top/config/40b889ae65995a4429027dcf72cfd343.jpg",
+  "https://file.xn--8mrz94a38l8mb00n.top/config/c5affe4729ad30725c7506629f6e2872.jpg",
+  "https://file.xn--8mrz94a38l8mb00n.top/config/1dd74403eac332529608bc383515a486.jpg"
 ]
 </script>
 
