@@ -37,8 +37,6 @@ Object.keys(directive).forEach((key) => {
   app.directive(key, (directive as { [key: string]: Directive })[key]);
 });
 const pinia = createPinia();
-
-
 pinia.use(piniaPluginPersistedstate);
 VMdPreview.use(vuepressTheme, {
   Prism,
