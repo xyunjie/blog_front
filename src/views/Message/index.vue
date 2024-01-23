@@ -118,7 +118,7 @@ const send = () => {
   bottom: 0;
   width: 100%;
   background-color: var(--color-blue);
-  background: url("https://static.ttkwsd.top/config/e3408389cb0d4ea1b5f651873dab2a19.jpg") center no-repeat;
+  background: url("https://file.xn--8mrz94a38l8mb00n.top/config/c5affe4729ad30725c7506629f6e2872.jpg") center no-repeat;
   animation: slideDownIn 1s;
 }
 

@@ -1,7 +1,7 @@
 <template>
   <div class="page-header">
     <h1 class="page-title">相册</h1>
-    <img class="page-cover" src="https://static.ttkwsd.top/config/0639b8855aab4dcbb827a9884e8ec57d.jpg" alt="">
+    <img class="page-cover" src="https://file.xn--8mrz94a38l8mb00n.top/config/c3687c26f1f6763a0d9854bc7deb894e.jpeg" alt="">
     <!-- 波浪 -->
     <Waves></Waves>
   </div>
